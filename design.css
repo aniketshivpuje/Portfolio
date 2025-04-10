@@ -138,6 +138,7 @@ nav ul li a:hover::after{
 }
 
 .about-col1 img{
+    width: 100%;
     border-radius:  100% 50%;
     
 }
@@ -507,6 +508,7 @@ border-radius: 6px;
     }
 
     .about-col1, .about-col2 {
+        margin-top: 150px;
         flex-basis: 100%;
         text-align: center;
     }
